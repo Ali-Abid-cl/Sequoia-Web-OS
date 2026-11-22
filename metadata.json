@@ -1,0 +1,8 @@
+{
+  "name": "Sequoia Web OS",
+  "description": "Interactive macOS Sonoma and Sequoia desktop workspace with draggable windows, spring magnification dock, Finder, Terminal, Notes, Calculator, and Gemini Spotlight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
